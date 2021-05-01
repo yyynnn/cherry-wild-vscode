@@ -1,0 +1,54 @@
+{
+	"name": "cherry-wild-theme",
+	"displayName": "Cherry Wild Theme",
+	"description": "Cherry Wild: Good Old Wild Cherry theme remixed and renewed for VSCode",
+	"version": "1.0.0",
+	"publisher": "yyynnn",
+	"author": {
+		"name": "Sergio Nikolaev",
+		"url": "https://github.com/yyynnn"
+	},
+	"icon": "assets/cherry-wild.png",
+	"preview": false,
+	"galleryBanner": {
+		"color": "#2A2A38",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yyynnn/cherry-wild-vscode"
+	},
+	"bugs": {
+		"url": "https://github.com/yyynnn/cherry-wild-vscode/issues"
+	},
+	"homepage": "https://github.com/yyynnn/cherry-wild-vscode",
+	"engines": {
+		"vscode": "^1.51.1"
+	},
+	"license": "MIT",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"cherry-wild",
+		"flat",
+		"dark",
+		"pink",
+		"theme",
+		"color-theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cherry Wild",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cherry-wild-vscode.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3a8988d3-d0e7-4b9e-a92c-5336c9b294c6",
+		"publisherDisplayName": null,
+		"publisherId": "88ccc272-c90c-40a2-aa42-30ab39577a0e"
+	}
+}

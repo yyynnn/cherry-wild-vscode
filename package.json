@@ -35,7 +35,9 @@
 		"dark",
 		"pink",
 		"theme",
-		"color-theme"
+		"color-theme",
+		"cherry",
+		"wild"
 	],
 	"contributes": {
 		"themes": [
@@ -45,10 +47,5 @@
 				"path": "./themes/cherry-wild-vscode.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "3a8988d3-d0e7-4b9e-a92c-5336c9b294c6",
-		"publisherDisplayName": null,
-		"publisherId": "88ccc272-c90c-40a2-aa42-30ab39577a0e"
 	}
 }

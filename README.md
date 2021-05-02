@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/yyynnn/cherry-wild-vscode/master/assets/cherry-wild.png"/></p>
-<h2><p align="center">Cherry Wild VSCode</p></h2>
-<p align="center">Clean, Flat, <i>Fervent Tempo battlesuit-inspired</i> Theme for VSCode</p>
+<h2><p align="center">Cherry Wild Theme</p></h2>
+<p align="center">A fairy-tale inspired theme</p>
 <p align="center"><img src="https://raw.githubusercontent.com/yyynnn/cherry-wild-vscode/master/assets/preview-full.png"/></p>
 </center>
 

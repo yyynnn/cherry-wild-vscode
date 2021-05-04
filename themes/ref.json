@@ -1,0 +1,284 @@
+{
+  "name": "Wild Cherry",
+  "settings": [
+    {
+      "settings": {
+        "background": "#2b1f32",
+        "caret": "#F8F8F0",
+        "foreground": "#F8F8F2",
+        "invisibles": "#38072f",
+        "lineHighlight": "#4a1386",
+        "selection": "#4a1386",
+        "findHighlight": "#fed888",
+        "findHighlightForeground": "#61002b",
+        "selectionBorder": "#222218",
+        "activeGuide": "#9D550FB0",
+        "bracketsForeground": "#F8F8F2A5",
+        "bracketsOptions": "underline",
+        "bracketContentsForeground": "#F8F8F2A5",
+        "bracketContentsOptions": "underline",
+        "tagsOptions": "stippled_underline"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6272a4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "String",
+      "scope": "string",
+      "settings": {
+        "foreground": "#fed888"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#9b5fe0"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "#9b5fe0"
+      }
+    },
+    {
+      "name": "User-defined constant",
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
+      "settings": {
+        "foreground": "#9b5fe0"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": "variable",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#e15d97"
+      }
+    },
+    {
+      "name": "Markup tag",
+      "scope": [
+        "meta.tag",
+        "declaration.tag"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#e15d97"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#e15d97"
+      }
+    },
+    {
+      "name": "Storage type",
+      "scope": "storage.type",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#0aacc5"
+      }
+    },
+    {
+      "name": "Class name",
+      "scope": "entity.name.class",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#35ba66"
+      }
+    },
+    {
+      "name": "Inherited class",
+      "scope": "entity.other.inherited-class",
+      "settings": {
+        "fontStyle": "italic underline",
+        "foreground": "#35ba66"
+      }
+    },
+    {
+      "name": "Function name",
+      "scope": "entity.name.function",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#35ba66"
+      }
+    },
+    {
+      "name": "Function argument",
+      "scope": "variable.parameter",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#ffb86c"
+      }
+    },
+    {
+      "name": "Tag name",
+      "scope": "entity.name.tag",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#e15d97"
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#35ba66"
+      }
+    },
+    {
+      "name": "Library function",
+      "scope": "support.function",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#0aacc5"
+      }
+    },
+    {
+      "name": "Library constant",
+      "scope": "support.constant",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#6be5fd"
+      }
+    },
+    {
+      "name": "Library class/type",
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
+      "settings": {
+        "fontStyle": " italic",
+        "foreground": "#66d9ef"
+      }
+    },
+    {
+      "name": "Library variable",
+      "scope": "support.other.variable",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "background": "#e15d97",
+        "fontStyle": "",
+        "foreground": "#F8F8F0"
+      }
+    },
+    {
+      "name": "Invalid deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "background": "#9b5fe0",
+        "foreground": "#F8F8F0"
+      }
+    },
+    {
+      "name": "JSON String",
+      "scope": "meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "#CFCFC2"
+      }
+    },
+    {
+      "name": "diff.header",
+      "scope": [
+        "meta.diff",
+        "meta.diff.header"
+      ],
+      "settings": {
+        "foreground": "#6272a4"
+      }
+    },
+    {
+      "name": "diff.deleted",
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#e15d97"
+      }
+    },
+    {
+      "name": "diff.inserted",
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#35ba66"
+      }
+    }, 
+    {
+      "name": "diff.changed",
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#fed888"
+      }
+    },
+    {
+      "scope": "constant.numeric.line-number.find-in-files - match",
+      "settings": {
+        "foreground": "#9b5fe0"
+      }
+    },
+    {
+      "scope": "entity.name.filename",
+      "settings": {
+        "foreground": "#fed888"
+      }
+    },
+    {
+      "scope": "message.error",
+      "settings": {
+        "foreground": "#bd1c14"
+      }
+    },
+    {
+      "name": "SublimeLinter Gutter Mark",
+      "scope": "sublimelinter.gutter-mark",
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "SublimeLinter Warning",
+      "scope": "sublimelinter.mark.warning",
+      "settings": {
+        "foreground": "#DDB700"
+      }
+    },
+    {
+      "name": "SublimeLinter Error",
+      "scope": "sublimelinter.mark.error",
+      "settings": {
+        "foreground": "#D02000"
+      }
+    }
+  ],
+  "uuid": "bea3c6c3-a779-45fa-8e59-a20ff6128e68",
+  "colorSpaceName": "sRGB",
+  "semanticClass": "theme.wild-cherry",
+  "author": "Mashaal"
+}

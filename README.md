@@ -20,5 +20,9 @@ git clone --depth=1 https://github.com/yyynnn/cherry-wild-vscode
 ## Related
 This theme is my attempt to resurrect Wild Cherry VSCode Theme.
 
+## Manual Publish
+* `vsce package`
+* `code --install-extension cherry-wild-theme-X.X.X.vsix` X.X.X current version of the package
+
 ## License
 This theme is licensed under [MIT License](LICENSE)

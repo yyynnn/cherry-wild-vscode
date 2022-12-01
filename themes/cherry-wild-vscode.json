@@ -2001,7 +2001,6 @@
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#2c2032",
     "tab.inactiveForeground": "#e5d1f097",
-    "scrollbarSlider.background": "#79797950",
     "scrollbarSlider.hoverBackground": "#646464b3",
     "scrollbarSlider.activeBackground": "#bfbfbf66",
     "progressBar.background": "#0e70c0",
@@ -2089,6 +2088,9 @@
     "breadcrumb.activeSelectionForeground": "#ffffff",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
-    "debugExceptionWidget.border": "#474747"
+    "debugExceptionWidget.border": "#474747",
+    "scrollbarSlider.background": "#23182a",
+    "editorOverviewRuler.border": "#191c2200",
+    "editorOverviewRuler.background": "#2b1f32"
   }
 }

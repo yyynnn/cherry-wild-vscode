@@ -2089,7 +2089,7 @@
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
     "debugExceptionWidget.border": "#474747",
-    "scrollbarSlider.background": "#23182a",
+    "scrollbarSlider.background": "#23182ac0",
     "editorOverviewRuler.border": "#191c2200",
     "editorOverviewRuler.background": "#2b1f32"
   }
